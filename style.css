@@ -1,0 +1,17 @@
+
+        body {
+            background-color: black; /* Set background to black */
+            color: white; /* Set text color to white */
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        #fire {
+            font-family: monospace; /* Use a monospace font for a terminal-like effect */
+            white-space: pre; /* Preserve whitespace and line breaks */
+        }
+  
